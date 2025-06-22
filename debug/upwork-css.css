@@ -1,0 +1,12 @@
+[data-test="job-type-label"],
+[data-test="is-fixed-price"] strong,
+[data-test="proposals-tier"] strong {
+    color: red !important;
+}
+
+.highlight,
+.highlight-color {
+    background: transparent !important;
+    font-weight: 900 !important;
+    color: #00ff8f !important;
+}
